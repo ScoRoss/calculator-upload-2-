@@ -1,0 +1,7 @@
+﻿  Calculator.cpp
+C:\Users\rossl\source\repos\thefuckingmess\thefuckingmess\Calculator.cpp(46,34): error C2296: '%': illegal, left operand has type 'double'
+C:\Users\rossl\source\repos\thefuckingmess\thefuckingmess\Calculator.cpp(46,34): error C2297: '%': illegal, right operand has type 'double'
+C:\Users\rossl\source\repos\thefuckingmess\thefuckingmess\Calculator.cpp(46,9): error C2513: 'double': no variable declared before '='
+C:\Users\rossl\source\repos\thefuckingmess\thefuckingmess\Calculator.cpp(47,9): error C2065: 'result': undeclared identifier
+  main.cpp
+  Generating Code...
